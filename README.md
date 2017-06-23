@@ -1,2 +1,2 @@
-# SMAI_project
-Smai Course project - Gender identification from Facial Images
+# SMAIproject
+SMAI project : Gender identification from Facial Images
